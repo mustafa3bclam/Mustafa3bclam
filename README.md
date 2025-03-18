@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mustafa Abdelsalam<br><br>- 🔭 I’m working as a Machine Learning engineer<br>- 📚 I'm currently learning Ai ,deep learning and Computer Vision</p>
+<p align="left">I'm Mustafa Abdelsalam<br><br>- 🔭 I’m working as a Software engineer<br>- 📚 I'm currently learning Ai ,Machine learning ,deep learning and Computer Vision</p>
 
 ###
 
